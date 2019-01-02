@@ -14,7 +14,7 @@
   },
   "scripts": {
     "test": "jest",
-    "lint": "eslint src/*.js",
+    "lint": "eslint index.js",
     "lintfix": "eslint --fix --ext .js --ignore-path .gitignore .",
     "precommit": "npm run lint"
   },
