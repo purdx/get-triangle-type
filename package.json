@@ -16,7 +16,6 @@
     "test": "jest",
     "lint": "eslint index.js",
     "lintfix": "eslint --fix --ext .js --ignore-path .gitignore .",
-    "precommit": "npm run lint"
   },
   "repository": {
     "type": "git",
