@@ -5,7 +5,7 @@ Returns the type of triangle based on 3 lengths given as arguments
 ## Install
 Install with npm
 ```sh
-$ npm install get-triangle-type --save-dev
+$ npm install get-triangle-type --save
 ```
 
 ## Usage
