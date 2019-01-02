@@ -26,7 +26,7 @@ console.log(getTriangleType('test', 3, 10));
 ```
 
 ## Development
-First you should install dependencies:
+First you should clone this repository then install dev dependencies:
 ```sh
 $ npm install -D
 ```
