@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Get the type of triangle depend on the given lengths",
   "main": "index.js",
-
   "devDependencies": {
     "eslint": "^5.11.1",
     "eslint-config-standard": "^12.0.0",
