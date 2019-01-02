@@ -1,0 +1,23 @@
+{
+  "name": "get-triangle-type",
+  "version": "1.0.0",
+  "description": "Get the type of triangle depend on the given lengths",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^5.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/purdx/get-triangle-type.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/purdx/get-triangle-type/issues"
+  },
+  "homepage": "https://github.com/purdx/get-triangle-type#readme"
+}
